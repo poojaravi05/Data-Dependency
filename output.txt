@@ -1,0 +1,13 @@
+
+Running algo verify...
+The pairs of instructions that can be executed in parallel are: 1
+Printing the set of Parallel Instructions: 
+b = b * c		d = c - a		
+
+
+
+Running algo calculate...
+The pairs of instructions that can be executed in parallel are: 1
+Printing the set of Parallel Instructions: 
+d = b + ( c - d / e)		a = a + b * c		
+
