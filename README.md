@@ -1,12 +1,6 @@
 # 474-Project1
 Project 1: Data Dependency
 
-Group members:
-
-Ameena Khan ameena07@csu.fullerton.edu
-
-Pooja Honneshwari Ravi pooja.ravi@csu.fullerton.edu
-
 Description:
 Project which checks Data Dependenies(Flow Dependency, Anti Dependency, Output Dependency) between the set of instructions, so that we can conclude which set of instructions can be executed in parallel. This helps to optimize the execution time and number of processes used.
 
